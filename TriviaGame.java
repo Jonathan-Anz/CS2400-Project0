@@ -3,6 +3,8 @@
 //Assignment 4
 //October 31, 2021
 
+//This comment is for CS2400-Project0
+
 import java.util.Scanner;
 
 public class TriviaGame
